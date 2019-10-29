@@ -1,3 +1,4 @@
 1 Lion
 2 Tiger
-2 Dog
+3 Dog
+4 Cat
